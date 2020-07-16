@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Other       10 hrs 27 mins      ██████████████████░░░░░░░   72.97 
-Go          1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.61 
-JavaScript  1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   7.85 
-Markdown    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.96 
-CSS         10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.23
+Other       10 hrs 27 mins      ██████████████░░░░░░░░░░░   55.66 
+TypeScript  2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.19 
+Markdown    2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.91 
+Go          1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.85 
+JavaScript  1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.99
 ```
 <!--END_SECTION:waka-->
