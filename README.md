@@ -34,10 +34,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Other       10 hrs 27 mins      ███████████░░░░░░░░░░░░░░   45.29 
-Markdown    4 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   20.5 
-TypeScript  2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.92 
-HTML        1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.35 
-Go          1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.2
+Week #29 : July 13 - 18
+
+Other       10 hrs 27 mins      ███████████░░░░░░░░░░░░░░   43.82% 
+Markdown    4 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.84% 
+TypeScript  2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.85% 
+HTML        1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.11% 
+Go          1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.97%
 ```
 <!--END_SECTION:waka-->
