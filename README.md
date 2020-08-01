@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-YAML         4 hrs 29 mins   █████░░░░░░░░░░░░░░░░░░░░   22.50 % 
-Python       4 hrs 9 mins    █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
-Markdown     3 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   18.83 % 
-JavaScript   2 hrs 39 mins   ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Docker       1 hr 35 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
+YAML         11 hrs 14 mins  █████████░░░░░░░░░░░░░░░░   36.62 % 
+Markdown     6 hrs 16 mins   █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+Python       4 hrs 14 mins   ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+JavaScript   2 hrs 39 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Docker       2 hrs 26 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
 ```
 <!--END_SECTION:waka-->
