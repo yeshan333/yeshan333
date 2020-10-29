@@ -34,10 +34,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Markdown                   1 hr 38 mins    ████████████▓░░░░░░░░░░░░   50.82 % 
-Python                     1 hr 6 mins     ████████▓░░░░░░░░░░░░░░░░   34.28 % 
-Nginx configuration file   11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-Docker                     7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-YAML                       7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Markdown   22 mins         █████████████████▒░░░░░░░   68.89 % 
+YAML       8 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.84 % 
+Other      1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 ```
 <!--END_SECTION:waka-->
