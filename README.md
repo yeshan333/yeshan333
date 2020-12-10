@@ -34,8 +34,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   4 hrs 1 min     ████████████████████▒░░░░   81.01 % 
-Go         54 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.20 % 
-Lua        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Markdown   4 hrs 44 mins   █████████████████░░░░░░░░   67.60 % 
+Lua        1 hr 20 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.13 % 
+Go         54 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+JSON       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 <!--END_SECTION:waka-->
