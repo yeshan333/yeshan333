@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-XML          41 mins         █████████████░░░░░░░░░░░░   52.60 % 
-Markdown     22 mins         ███████▒░░░░░░░░░░░░░░░░░   28.71 % 
-Java         12 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+XML          41 mins         ██████████████▒░░░░░░░░░░   57.85 % 
+Markdown     15 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.60 % 
+Java         12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.19 % 
+Other        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 ```
 <!--END_SECTION:waka-->
