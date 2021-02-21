@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   24 mins         ████████████████░░░░░░░░░   63.88 % 
-JSON         13 mins         ████████▓░░░░░░░░░░░░░░░░   34.89 % 
+
 ```
 <!--END_SECTION:waka-->
