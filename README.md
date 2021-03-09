@@ -35,8 +35,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 14 mins    █████████████████▓░░░░░░░   70.73 % 
-C            17 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-Markdown     11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+JavaScript   2 hrs 5 mins    ███████████▒░░░░░░░░░░░░░   45.28 % 
+Go           2 hrs           ███████████░░░░░░░░░░░░░░   43.50 % 
+C            17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Markdown     11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 ```
 <!--END_SECTION:waka-->
