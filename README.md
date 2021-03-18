@@ -33,10 +33,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   4 hrs 31 mins   ███████████████▓░░░░░░░░░   62.74 % 
-YAML       2 hrs 12 mins   ███████▓░░░░░░░░░░░░░░░░░   30.71 % 
-Go         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-Other      9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-Git        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Go         10 mins         ████████████████████░░░░░   79.55 % 
+Markdown   2 mins          █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
 ```
 <!--END_SECTION:waka-->
