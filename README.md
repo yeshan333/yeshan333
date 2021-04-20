@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-JSON         3 hrs 15 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.05 % 
-JavaScript   2 hrs 14 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.89 % 
-Python       1 hr 35 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-Java         1 hr 22 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-YAML         44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+JavaScript   4 hrs 12 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.37 % 
+JSON         4 hrs 4 mins    ██████░░░░░░░░░░░░░░░░░░░   24.51 % 
+Java         1 hr 47 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+Python       1 hr 40 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Markdown     1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
 ```
 <!--END_SECTION:waka-->
