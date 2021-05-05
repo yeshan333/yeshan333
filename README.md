@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-HTML   8 mins          █████████████████░░░░░░░░   67.38 % 
-Go     2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.55 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
