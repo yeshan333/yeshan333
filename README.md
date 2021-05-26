@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     16 mins         ███████████████████████░░   92.02 % 
-JavaScript   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+JavaScript   1 min           █████████████████▒░░░░░░░   69.44 % 
 ```
 <!--END_SECTION:waka-->
