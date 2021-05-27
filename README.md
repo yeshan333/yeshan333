@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 min           █████████████████▒░░░░░░░   69.44 % 
+Bash         14 mins         ██████████████▒░░░░░░░░░░   57.57 % 
+Other        5 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.80 % 
+Go           2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Markdown     2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+JavaScript   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 ```
 <!--END_SECTION:waka-->
