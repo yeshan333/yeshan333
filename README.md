@@ -33,9 +33,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   49 mins         █████████████████▒░░░░░░░   69.17 % 
-Bash       14 mins         █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
-Other      5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-Go         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Markdown     58 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.91 % 
+JavaScript   57 mins         ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+Other        36 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+TypeScript   23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+JSON         22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
 ```
 <!--END_SECTION:waka-->
