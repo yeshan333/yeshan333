@@ -33,9 +33,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   57 mins         ██████████████░░░░░░░░░░░   55.66 % 
-Vue.js     38 mins         █████████▒░░░░░░░░░░░░░░░   37.29 % 
-JSX        5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-JSON       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
