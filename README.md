@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JSON       12 mins         █████████████▓░░░░░░░░░░░   54.57 % 
+Markdown   10 mins         ███████████▒░░░░░░░░░░░░░   45.43 % 
 ```
 <!--END_SECTION:waka-->
