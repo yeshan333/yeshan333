@@ -33,9 +33,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   1 hr 1 min      ███████████████▓░░░░░░░░░   62.47 % 
-TOML       22 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.89 % 
-JSON       12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-YAML       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Markdown   1 hr 1 min      █████████████░░░░░░░░░░░░   52.07 % 
+TOML       22 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.08 % 
+JSON       14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+YAML       9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Makefile   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 ```
 <!--END_SECTION:waka-->
