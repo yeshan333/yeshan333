@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🤔 I’m currently learning **Cloud Native** technologies
 - 🏠 I'm studying in a beautiful country -> **China，🇨🇳**
-- 💬 Ask me about **Python, Git, Go and JavaScript**
+- 💬 Ask me about **Python, Git, Go , Kubernetes,Linux and JavaScript**
 - 📧 Contact me: yeshan1329441308@gmail.com
 
 ---
