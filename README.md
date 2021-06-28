@@ -33,10 +33,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-YAML       32 mins         █████████████████░░░░░░░░   67.90 % 
-Makefile   5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-C          3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Markdown   3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-JSON       1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+YAML       24 mins         ██████████████████████░░░   87.43 % 
+Markdown   3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
 ```
 <!--END_SECTION:waka-->
