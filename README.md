@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   2 hrs 4 mins    ██████████████████▒░░░░░░   73.87 % 
-YAML       22 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-C++        19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-JSON       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Markdown   2 hrs 4 mins    █████████████████░░░░░░░░   67.74 % 
+YAML       37 mins         █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+C++        19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+JSON       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 ```
 <!--END_SECTION:waka-->
