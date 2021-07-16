@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     7 hrs 20 mins   █████████████████░░░░░░░░   67.97 % 
-C++          1 hr 34 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Other        29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-JSON         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-Git Config   23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Markdown     7 hrs 20 mins   █████████████████▓░░░░░░░   70.86 % 
+Other        48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+C++          38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+JSON         37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+Git Config   23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 ```
 <!--END_SECTION:waka-->
