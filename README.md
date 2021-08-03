@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     1 hr 38 mins    █████████░░░░░░░░░░░░░░░░   36.04 % 
-Go           1 hr 12 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.44 % 
-Elixir       59 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.81 % 
-Git Config   14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-Bash         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Markdown     1 hr 38 mins    ██████████▒░░░░░░░░░░░░░░   41.01 % 
+Elixir       59 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.99 % 
+Go           44 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.48 % 
+Git Config   13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Bash         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 ```
 <!--END_SECTION:waka-->
