@@ -33,10 +33,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-YAML       3 hrs 54 mins   ████████████████▓░░░░░░░░   66.28 % 
-Other      1 hr 1 min      ████▒░░░░░░░░░░░░░░░░░░░░   17.47 % 
-Elixir     43 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Markdown   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-Go         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+YAML       6 hrs 2 mins    ████████████████████░░░░░   79.54 % 
+Other      1 hr 32 mins    █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
 ```
 <!--END_SECTION:waka-->
