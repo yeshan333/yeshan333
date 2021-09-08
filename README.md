@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Bash     6 hrs 2 mins    █████████░░░░░░░░░░░░░░░░   36.31 % 
-Docker   2 hrs 58 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Python   2 hrs 43 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-YAML     1 hr 52 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-Other    55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Bash     10 hrs 1 min    ██████████████░░░░░░░░░░░   55.52 % 
+Docker   3 hrs 12 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Python   1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Other    54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Go       46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 ```
 <!--END_SECTION:waka-->
