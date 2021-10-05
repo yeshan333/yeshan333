@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Bash         4 hrs 14 mins   ███████████░░░░░░░░░░░░░░   43.90 % 
-Other        2 hrs           █████▒░░░░░░░░░░░░░░░░░░░   20.80 % 
-Python       1 hr 56 mins    █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
-JSON         46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-JavaScript   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Bash         2 hrs 12 mins   █████████░░░░░░░░░░░░░░░░   36.30 % 
+Other        1 hr 16 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.87 % 
+Python       1 hr 8 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.75 % 
+JSON         46 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+JavaScript   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 ```
 <!--END_SECTION:waka-->
