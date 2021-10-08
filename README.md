@@ -33,8 +33,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Python   22 mins         █████████████▒░░░░░░░░░░░   53.90 % 
-Bash     11 mins         ███████░░░░░░░░░░░░░░░░░░   28.22 % 
-Jinja2   7 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.05 % 
+Markdown   2 hrs 42 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
