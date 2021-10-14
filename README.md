@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   2 hrs 42 mins   █████████████▓░░░░░░░░░░░   55.05 % 
-Other      1 hr 33 mins    ████████░░░░░░░░░░░░░░░░░   31.74 % 
-Java       17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-JSON       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Elixir     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Markdown   2 hrs 42 mins   ███████████▓░░░░░░░░░░░░░   47.15 % 
+Other      1 hr 33 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.21 % 
+Java       52 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+JSON       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Bash       7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 ```
 <!--END_SECTION:waka-->
