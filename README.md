@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Docker     14 hrs 26 mins  ██████████▓░░░░░░░░░░░░░░   42.22 % 
-Java       6 hrs 45 mins   █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-Markdown   5 hrs 51 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.11 % 
-Bash       2 hrs 5 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-Elixir     1 hr 35 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Docker     14 hrs 8 mins   ██████████░░░░░░░░░░░░░░░   40.03 % 
+Markdown   6 hrs           ████▒░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Java       4 hrs 30 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Erlang     2 hrs 33 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+Bash       2 hrs 5 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
 ```
 <!--END_SECTION:waka-->
