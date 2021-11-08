@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Java     24 hrs 46 mins  ████████████████████░░░░░   79.99 % 
-Other    2 hrs 49 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-Jinja2   2 hrs 34 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-Elixir   31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-YAML     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Java     23 hrs 36 mins  ███████████████████▒░░░░░   77.81 % 
+Other    2 hrs 49 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Jinja2   2 hrs 34 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+Elixir   31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+YAML     26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 ```
 <!--END_SECTION:waka-->
