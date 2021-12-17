@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-XML          9 hrs 40 mins   ████████░░░░░░░░░░░░░░░░░   31.67 % 
-Other        7 hrs 22 mins   ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
-Docker       4 hrs 35 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-Bash         4 hrs 24 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-JavaScript   54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+XML        9 hrs 37 mins   ███████▓░░░░░░░░░░░░░░░░░   30.69 % 
+Other      7 hrs 25 mins   ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+Bash       4 hrs 41 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Docker     2 hrs 49 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Markdown   2 hrs 47 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
 ```
 <!--END_SECTION:waka-->
