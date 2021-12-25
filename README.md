@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Other    8 hrs 8 mins    ███████████▒░░░░░░░░░░░░░   45.27 % 
-Bash     3 hrs 23 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.91 % 
-Elixir   2 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-XML      1 hr 43 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-Java     40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Other    8 hrs 38 mins   ██████████▓░░░░░░░░░░░░░░   42.66 % 
+Bash     3 hrs 56 mins   █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+Elixir   2 hrs 38 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+Java     1 hr 29 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+XML      1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
 ```
 <!--END_SECTION:waka-->
