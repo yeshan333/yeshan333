@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🤔 I’m currently learning **Cloud Native** technologies
 - 🏠 I'm studying in a beautiful country -> **China，🇨🇳**
-- 💬 Ask me about **Python, Git, Go , Kubernetes,Linux and JavaScript**
+- 💬 Ask me about **Python, Git, Go, Kubernetes, Linux and JavaScript**
 - 📧 Contact me: yeshan333.ye@gmail.com
 
 ---
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://shansan.top" target="_blank">Blog</a> •
   <a href="https://twitter.com/CloudysYe" target="_blank">Twitter</a> •
-  <a href="https://slide.shan333.cn" target="_blank">Slides</a>
+  <a href="https://slides.shan333.cn" target="_blank">Slides</a>
 </p>
 
 <!--START_SECTION:waka-->
