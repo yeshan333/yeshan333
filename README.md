@@ -33,10 +33,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Java       1 hr 34 mins    ████████▓░░░░░░░░░░░░░░░░   34.30 % 
-Markdown   1 hr 18 mins    ███████░░░░░░░░░░░░░░░░░░   28.43 % 
-JSON       54 mins         █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
-Other      37 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Python     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Java         56 mins         █████████████░░░░░░░░░░░░   51.48 % 
+Other        37 mins         ████████▓░░░░░░░░░░░░░░░░   34.29 % 
+JSON         13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 ```
 <!--END_SECTION:waka-->
