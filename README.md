@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Java         56 mins         █████████████░░░░░░░░░░░░   51.48 % 
-Other        37 mins         ████████▓░░░░░░░░░░░░░░░░   34.29 % 
+Java         56 mins         █████████████░░░░░░░░░░░░   51.50 % 
+Other        37 mins         ████████▓░░░░░░░░░░░░░░░░   34.30 % 
 JSON         13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 % 
 Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 ```
