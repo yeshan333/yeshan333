@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Go       3 hrs 5 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.70 % 
-Elixir   2 hrs 33 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.00 % 
-JSON     2 hrs 11 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Other    1 hr 58 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-YAML     1 hr 31 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Go       3 hrs 39 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.12 % 
+Elixir   2 hrs 33 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+JSON     2 hrs 12 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Other    1 hr 58 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+YAML     1 hr 41 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
 ```
 <!--END_SECTION:waka-->
