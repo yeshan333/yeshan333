@@ -34,7 +34,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Other        6 hrs 29 mins   ██████████▓░░░░░░░░░░░░░░   43.11 %
+JSON       1 hr 30 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.10 %
+Markdown   1 hr 22 mins    ██████░░░░░░░░░░░░░░░░░░░   23.60 %
+Other      1 hr 19 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.87 %
 ```
 
 <!--END_SECTION:waka-->
