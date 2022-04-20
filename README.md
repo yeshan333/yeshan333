@@ -34,8 +34,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Elixir       8 hrs 11 mins   ███████▓░░░░░░░░░░░░░░░░░   30.52 %
-Other        4 hrs 56 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.42 %
+Elixir       12 hrs 25 mins  ██████████▓░░░░░░░░░░░░░░   42.10 %
+Python       4 hrs 8 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.02 %
+Other        4 hrs           ███▒░░░░░░░░░░░░░░░░░░░░░   13.60 %
 ```
 
 <!--END_SECTION:waka-->
