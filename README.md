@@ -34,7 +34,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Other        4 hrs 10 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.37 %
+Jinja2       3 hrs 49 mins   ███████░░░░░░░░░░░░░░░░░░   27.35 %
+Lua          3 hrs 37 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.97 %
+Other        3 hrs 11 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.90 %
 ```
 
 <!--END_SECTION:waka-->
