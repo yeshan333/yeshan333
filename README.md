@@ -25,8 +25,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python       6 hrs 59 mins   ████████▒░░░░░░░░░░░░░░░░   33.28 %
-Other        5 hrs 54 mins   ███████░░░░░░░░░░░░░░░░░░   28.14 %
+Elixir       6 hrs 51 mins   ████████▓░░░░░░░░░░░░░░░░   34.05 %
+Other        5 hrs 24 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.83 %
 ```
 
 <!--END_SECTION:waka-->
