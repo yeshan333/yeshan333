@@ -25,8 +25,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Elixir     9 hrs 46 mins   ███████████████░░░░░░░░░░   60.56 %
-Other      2 hrs 17 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.19 %
+Elixir     9 hrs 42 mins   ███████████████▒░░░░░░░░░   60.80 %
+Jinja2     1 hr 51 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
+Other      1 hr 37 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
 ```
 
 <!--END_SECTION:waka-->
