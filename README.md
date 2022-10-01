@@ -25,8 +25,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Elixir       14 hrs 18 mins  ███████████▒░░░░░░░░░░░░░   45.07 %
-Other        10 hrs 24 mins  ████████▒░░░░░░░░░░░░░░░░   32.80 %
+Elixir       13 hrs 9 mins   ██████████▒░░░░░░░░░░░░░░   40.97 %
+Other        12 hrs 17 mins  █████████▓░░░░░░░░░░░░░░░   38.27 %
 ```
 
 <!--END_SECTION:waka-->
