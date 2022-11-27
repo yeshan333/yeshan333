@@ -97,9 +97,9 @@ Other        5 hrs 33 mins   ██░░░░░░░░░░░░░░░
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [（译）Elixir Tip: Case vs. With](https://yeshan333.github.io/2022/11/26/Elixir-Tip-Case-vs-With/)
 - [the-solution-of-elixir-continuous-runtime-system-code-coverage-collection](https://yeshan333.github.io/2022/08/31/the-solution-of-elixir-continuous-runtime-system-code-coverage-collection/)
 - [Elixir 连续运行时代码覆盖率采集方案](https://yeshan333.github.io/2022/06/29/elixir-run-time-code-line-level-coverage-collection/)
 - [&lpar;译&rpar; Understanding Elixir Macros, Part 6 - In-place Code Generation](https://yeshan333.github.io/2022/06/19/understanding-elixir-macros-part-6-in-place-code-generation/)
 - [&lpar;译&rpar; Understanding Elixir Macros, Part 5 - Reshaping the AST](https://yeshan333.github.io/2022/06/19/understanding-elixir-macros-part-5-reshaping-the-ast/)
-- [&lpar;译&rpar; Understanding Elixir Macros, Part 4 - Diving Deeper](https://yeshan333.github.io/2022/06/19/understanding-elixir-macros-part-4-diving-deeper/)
 <!-- BLOG-POST-LIST:END -->
