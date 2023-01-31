@@ -25,7 +25,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Elixir   10 mins         ████████████████████░░░░░   79.76 %
+Other    2 mins          █████░░░░░░░░░░░░░░░░░░░░   19.51 %
 ```
 
 <!--END_SECTION:waka-->
