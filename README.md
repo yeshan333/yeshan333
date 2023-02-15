@@ -25,9 +25,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Elixir       4 hrs 11 mins   ████████████▒░░░░░░░░░░░░   49.52 %
-Markdown     1 hr 39 mins    █████░░░░░░░░░░░░░░░░░░░░   19.61 %
-Other        1 hr 10 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.97 %
+Elixir       3 hrs           ████████▓░░░░░░░░░░░░░░░░   34.79 %
+Markdown     2 hrs 11 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.34 %
+Other        1 hr 16 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.82 %
 ```
 
 <!--END_SECTION:waka-->
