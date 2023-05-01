@@ -25,10 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Elixir       5 hrs 28 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.49 %
-Jinja2       4 hrs 33 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.04 %
-Markdown     4 hrs 31 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.89 %
-Other        1 hr 47 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
