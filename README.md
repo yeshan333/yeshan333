@@ -25,7 +25,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Elixir       3 hrs 22 mins   █████████▒░░░░░░░░░░░░░░░   37.79 %
+Python       1 hr 34 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.63 %
+Jinja2       1 hr 21 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.28 %
+Markdown     1 hr 19 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.85 %
+Other        55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
 ```
 
 <!--END_SECTION:waka-->
