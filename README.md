@@ -25,11 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         1 hr 9 mins     ███████▓░░░░░░░░░░░░░░░░░   30.51 %
-Markdown     32 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 %
-GDScript3    27 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
-Elixir       26 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
-Python       25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
