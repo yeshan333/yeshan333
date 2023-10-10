@@ -25,7 +25,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Elixir        33 mins         ███████▒░░░░░░░░░░░░░░░░░   29.52 %
+TypeScript    17 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.62 %
+Go            16 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 %
+Makefile      14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.23 %
+INI           10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
 ```
 
 <!--END_SECTION:waka-->
