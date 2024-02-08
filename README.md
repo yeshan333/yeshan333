@@ -98,9 +98,9 @@ JSON             1 hr 11 mins    ██░░░░░░░░░░░░░�
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [乐理通识](https://yeshan333.github.io/2024/02/07/become-a-romantic-muscian/)
 - [Elixir 依赖 &lpar;deps&rpar; 调试的小技巧](https://yeshan333.github.io/2023/08/12/elixir-deps-debug-skills/)
 - [&lpar;译&rpar; Server-Sent Events: the alternative to WebSockets you should be using](https://yeshan333.github.io/2023/03/11/sse-websocket/)
-- [??????](https://yeshan333.github.io/2023/03/09/become-a-romantic-muscian/)
 - [2022 | Summary](https://yeshan333.github.io/2023/02/26/2022-annual-reviewed/)
 - [（译）Elixir Tip: Case vs. With](https://yeshan333.github.io/2022/11/26/Elixir-Tip-Case-vs-With/)
 <!-- BLOG-POST-LIST:END -->
