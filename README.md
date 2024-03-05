@@ -98,9 +98,9 @@ Python            3 hrs 27 mins   ██▓░░░░░░░░░░░░�
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Awesome Technology Weekly Zh-Hans - 中文技术月/周/日刊一览](https://yeshan333.github.io/2024/03/04/awesome-tech-weekly-zh/)
 - [使用 go-ycsb 对 etcd 进行基准 &lpar;benchmark&rpar; 性能测试](https://yeshan333.github.io/2024/02/29/using-ycsb-benchmark-etcd/)
 - [使用 GitHub Codespaces 加速 Elixir 开发环境工作速度](https://yeshan333.github.io/2024/02/19/elixir-github-codespace-dev/)
 - [乐理通识](https://yeshan333.github.io/2024/02/07/become-a-romantic-muscian/)
 - [Elixir 依赖 &lpar;deps&rpar; 调试的小技巧](https://yeshan333.github.io/2023/08/12/elixir-deps-debug-skills/)
-- [&lpar;译&rpar; Server-Sent Events: the alternative to WebSockets you should be using](https://yeshan333.github.io/2023/03/11/sse-websocket/)
 <!-- BLOG-POST-LIST:END -->
