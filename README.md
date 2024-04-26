@@ -99,9 +99,9 @@ Lua                 1 hr 22 mins    ██▒░░░░░░░░░░░�
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [使用 vfox-erlang 安装管理多个 Erlang/OTP 版本](https://yeshan333.github.io/2024/04/25/using-vfox-erlang-to-manage-erlang-version/)
 - [使用 chezmoi &amp; vscode, 管理你的 dotfiles](https://yeshan333.github.io/2024/03/23/using-chezmoi-to-manage-dotfiles/)
 - [使用 WXT 开发浏览器插件（上手使用篇）](https://yeshan333.github.io/2024/03/15/develop-web-extension-with-wxt/)
 - [Windows PowerToys：屏幕标尺，测量屏幕上任何内容的像素](https://yeshan333.github.io/2024/03/13/markup-screen/)
 - [Awesome Technology Weekly Zh-Hans - 中文技术月/周/日刊一览](https://yeshan333.github.io/2024/03/04/awesome-tech-weekly-zh/)
-- [使用 go-ycsb 对 etcd 进行基准 &lpar;benchmark&rpar; 性能测试](https://yeshan333.github.io/2024/02/29/using-ycsb-benchmark-etcd/)
 <!-- BLOG-POST-LIST:END -->
