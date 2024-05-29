@@ -110,9 +110,9 @@ Lua               2 hrs 1 min     █▓░░░░░░░░░░░░░�
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [手把手教你如何在 Sider &lpar;ChatGPT Sidebar&rpar; 中免费使用通义千问](https://yeshan333.github.io/2024/05/29/free-to-use-sider-with-qwen/)
 - [使用 vscode 插件 vscode-jenkins-pipeline-linter-connector 和 LLMs 大模型校验你的 Jenkinsfile](https://yeshan333.github.io/2024/05/25/validate-jenkinsfile/)
 - [etcd 和 MongoDB 的混沌（故障）测试方法](https://yeshan333.github.io/2024/05/18/etcd-and-mongodb-chaos-testing/)
 - [通过 vfox 安装管理多版本 Erlang 和 Elixir](https://yeshan333.github.io/2024/04/27/install-erlang-and-elixir-via-vfox/)
 - [使用 vfox-erlang 安装管理多个 Erlang/OTP 版本](https://yeshan333.github.io/2024/04/25/using-vfox-erlang-to-manage-erlang-version/)
-- [使用 chezmoi &amp; vscode, 管理你的 dotfiles](https://yeshan333.github.io/2024/03/23/using-chezmoi-to-manage-dotfiles/)
 <!-- BLOG-POST-LIST:END -->
