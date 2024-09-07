@@ -15,6 +15,6 @@ jobs:
       - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://shan333.cn/rss2.xml"
+          feed_list: "https://shansan.top/rss2.xml"
           retry_count: 10
           retry_wait_time: 3
