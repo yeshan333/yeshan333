@@ -27,11 +27,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Lua        2 hrs 3 mins    ██████████████████░░░░░░░   72.31 %
-Docker     25 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.74 %
-Other      7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-Markdown   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-YAML       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
