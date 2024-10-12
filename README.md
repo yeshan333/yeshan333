@@ -27,7 +27,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Lua        2 hrs 43 mins   ███████████▒░░░░░░░░░░░░░   45.30 %
+YAML       1 hr 31 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.22 %
+Bash       24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
+Makefile   19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+Docker     15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
 ```
 
 <!--END_SECTION:waka-->
