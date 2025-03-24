@@ -110,9 +110,9 @@ YAML         46 mins         █▓░░░░░░░░░░░░░░░
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [使用 mcp-agent 框架和百炼通义千问大模型构建基于 MCP 协议的网页总结智能代理 &lpar;agent&rpar;](https://yeshan333.github.io/2025/03/23/build-agent-with-mcp-agent-and-qwen/)
 - [使用 mkcert 本地部署启动了 TLS/SSL 加密通讯的 MongoDB 副本集和分片集群](https://yeshan333.github.io/2025/02/06/mongodb-deployment-with-tls-and-mkcert/)
 - [在 Visual Studio Code 与微信开发者工具中调试使用 emscripten 基于 C 生成的 WASM 代码](https://yeshan333.github.io/2025/01/08/debug-emscripten-wasm-in-vscode/)
 - [&lpar;Amazing!&rpar; 通过 vfox 在 Windows 上安装管理多个 Erlang/OTP 和 Elixir 的版本](https://yeshan333.github.io/2024/06/18/install-erlang-and-elixir-via-vfox-on-windows/)
 - [手把手教你如何在 Sider &lpar;ChatGPT Sidebar&rpar; 中免费使用通义千问](https://yeshan333.github.io/2024/05/29/free-to-use-sider-with-qwen/)
-- [使用 vscode 插件 vscode-jenkins-pipeline-linter-connector 和 LLMs 大模型校验你的 Jenkinsfile](https://yeshan333.github.io/2024/05/25/validate-jenkinsfile/)
 <!-- BLOG-POST-LIST:END -->
