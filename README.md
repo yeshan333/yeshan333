@@ -27,8 +27,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Git Config   0 secs          █████████████████▓░░░░░░░   71.27 %
-Markdown     0 secs          ███████▒░░░░░░░░░░░░░░░░░   28.73 %
+TypeScript   23 mins         ███████████░░░░░░░░░░░░░░   44.60 %
+JSON         23 mins         ███████████░░░░░░░░░░░░░░   44.23 %
+Markdown     5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
