@@ -110,9 +110,9 @@ Docker              3 hrs 5 mins    ██░░░░░░░░░░░░�
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [使用 Claude Code 的自定义 Sub Agent 完善博文写作体验](https://yeshan333.github.io/2025/07/27/claude-code-subagent-for-tech-writing/)
+- [使用 Claude Code 和 Qwen3 Coder 将博客主题成功迁移到了 Stellar 🎉](https://yeshan333.github.io/2025/07/27/migrate-theme-to-stellar-with-claude-code/)
 - [使用 n8n 和飞书多维表打造自己的 RSS Feed 订阅管理 &amp; AI 大模型阅读提炼工作流](https://yeshan333.github.io/2025/07/12/rss-summary-workflow-with-n8n/)
 - [【体验】使用 GitHub Copilot Agent 创建新的 RSSHub 路由](https://yeshan333.github.io/2025/04/20/use-github-copilot-to-create-rsshub-route/)
 - [使用 mcp-agent 框架和百炼通义千问大模型构建基于 MCP 协议的网页总结智能代理 &lpar;agent&rpar;](https://yeshan333.github.io/2025/03/23/build-agent-with-mcp-agent-and-qwen/)
-- [使用 mkcert 本地部署启动了 TLS/SSL 加密通讯的 MongoDB 副本集和分片集群](https://yeshan333.github.io/2025/02/06/mongodb-deployment-with-tls-and-mkcert/)
-- [在 Visual Studio Code 与微信开发者工具中调试使用 emscripten 基于 C 生成的 WASM 代码](https://yeshan333.github.io/2025/01/08/debug-emscripten-wasm-in-vscode/)
 <!-- BLOG-POST-LIST:END -->
