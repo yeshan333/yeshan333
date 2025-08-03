@@ -16,7 +16,7 @@
 ## Connect with me
 
 <p align="center">
-  <a href="https://cloudys-bio.netlify.app/en/" target="_blank">Bio</a> •
+  <a href="https://shansan.top/wiki/bio/" target="_blank">Bio</a> •
   <a href="https://shansan.top" target="_blank">Blog</a> •
   <a href="https://twitter.com/CloudysYe" target="_blank">Twitter</a> •
   <a href="https://slides.shan333.cn" target="_blank">Slides</a>
