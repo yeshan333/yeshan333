@@ -110,9 +110,9 @@ Other               2 hrs 24 mins   ██▒░░░░░░░░░░░�
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [使用 Claude Code 的自定义 Sub Agent 完善博文写作体验](https://yeshan333.github.io/2025/07/27/claude-code-subagent-for-tech-writing/)
-- [使用 Claude Code 和 Qwen3 Coder 将博客主题成功迁移到了 Stellar 🎉](https://yeshan333.github.io/2025/07/27/migrate-theme-to-stellar-with-claude-code/)
-- [使用 n8n 和飞书多维表打造自己的 RSS Feed 订阅管理 &amp; AI 大模型阅读提炼工作流](https://yeshan333.github.io/2025/07/12/rss-summary-workflow-with-n8n/)
-- [【体验】使用 GitHub Copilot Agent 创建新的 RSSHub 路由](https://yeshan333.github.io/2025/04/20/use-github-copilot-to-create-rsshub-route/)
-- [使用 mcp-agent 框架和百炼通义千问大模型构建基于 MCP 协议的网页总结智能代理 &lpar;agent&rpar;](https://yeshan333.github.io/2025/03/23/build-agent-with-mcp-agent-and-qwen/)
+- [使用 Claude Code 的自定义 Sub Agent 完善博文写作体验](https://shansan.top/2025/07/27/claude-code-subagent-for-tech-writing/)
+- [使用 Claude Code 和 Qwen3 Coder 将博客主题成功迁移到了 Stellar 🎉](https://shansan.top/2025/07/27/migrate-theme-to-stellar-with-claude-code/)
+- [使用 n8n 和飞书多维表打造自己的 RSS Feed 订阅管理 &amp; AI 大模型阅读提炼工作流](https://shansan.top/2025/07/12/rss-summary-workflow-with-n8n/)
+- [【体验】使用 GitHub Copilot Agent 创建新的 RSSHub 路由](https://shansan.top/2025/04/20/use-github-copilot-to-create-rsshub-route/)
+- [使用 mcp-agent 框架和百炼通义千问大模型构建基于 MCP 协议的网页总结智能代理 &lpar;agent&rpar;](https://shansan.top/2025/03/23/build-agent-with-mcp-agent-and-qwen/)
 <!-- BLOG-POST-LIST:END -->
