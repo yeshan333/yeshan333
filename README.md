@@ -110,7 +110,7 @@ Other        1 hr 47 mins    █▓░░░░░░░░░░░░░░░
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [使用 iFLOW-CLI GitHub Action 给 GitHub 仓库生成幻灯片风格的文档站点](https://shansan.top/2025/08/09/gen-slides-like-docs-site-with-iflow-cli/)
+- [使用 iFLOW-CLI GitHub Action 和 Qwen3-Coder 给 GitHub 仓库生成幻灯片风格的文档站点](https://shansan.top/2025/08/09/gen-slides-like-docs-site-with-iflow-cli/)
 - [使用 Claude Code 的自定义 Sub Agent 完善博文写作体验](https://shansan.top/2025/07/27/claude-code-subagent-for-tech-writing/)
 - [使用 Claude Code 和 Qwen3 Coder 将博客主题成功迁移到了 Stellar 🎉](https://shansan.top/2025/07/27/migrate-theme-to-stellar-with-claude-code/)
 - [使用 n8n 和飞书多维表打造自己的 RSS Feed 订阅管理 &amp; AI 大模型阅读提炼工作流](https://shansan.top/2025/07/12/rss-summary-workflow-with-n8n/)
