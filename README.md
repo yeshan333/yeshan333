@@ -27,11 +27,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Lua          1 hr 56 mins          ████████████▓░░░░░░░░░░░░   50.01 %
-JSON         1 hr 13 mins          ████████░░░░░░░░░░░░░░░░░   31.38 %
-JavaScript   11 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-Other        9 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
-Markdown     7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
