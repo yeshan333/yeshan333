@@ -27,7 +27,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Lua          1 hr 48 mins          ██████████████▓░░░░░░░░░░   58.99 %
+JSON         40 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.25 %
+JavaScript   14 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
+YAML         8 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+Other        6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
 ```
 
 <!--END_SECTION:waka-->
