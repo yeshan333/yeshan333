@@ -2,11 +2,7 @@
 
 <!--COMMENT: README build with：https://profilinator.rishav.dev/ -->
 
-- 🤔 I'm currently happy coding with AI Agents.
-
-
-- 🇨🇳 I'm studying in a beautiful country -> **China**.
-
+- 🤔 Agentic ????x
 
 - 📧 Contact me: [yeshan333.ye@gmail.com](mailto:yeshan333.ye@gmail.com).
 
