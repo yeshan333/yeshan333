@@ -35,9 +35,9 @@ Lua          1 hr 49 mins          █▓░░░░░░░░░░░░░
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Your New Tab：把常用的 AI 搜索放进新标签页](https://shansan.top/2026/05/17/your-new-tab-ai-search-hub-promo/)
 - [【Draft】cluacov 的分支覆盖率统计：从行级近似到指令级精确](https://shansan.top/2026/05/02/cluacov-branch-coverage/)
 - [Sanitizer 全景：从编译插桩到硬件标签的内存安全检测演进](https://shansan.top/2026/04/22/blog-sanitizers-deep-dive/)
 - [【连载】Software Testing Weekly 图文解读 with VLM](https://shansan.top/2026/04/19/Software-Testing-Weekly-Visual-Interpretation/)
 - [我的 MacOS 常用软件清单](https://shansan.top/2025/09/28/my-mac-tools/)
-- [使用 iflow-cli-action 在 GitHub 与 Qwen3-Coder、Kimi K2 一起快速提升你的生产力](https://shansan.top/2025/08/16/the-next-level-of-developer-productivity-with-iflow-cli-action/)
 <!-- BLOG-POST-LIST:END -->
