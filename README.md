@@ -23,11 +23,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown        5 hrs 59 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.35 %
-JavaScript      5 hrs 23 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.61 %
-Lua             5 hrs 4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 %
-Astro           2 hrs 56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
-Makefile        2 hrs 48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
+Markdown                           7 hrs 47 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.08 %
+Lua                                6 hrs 35 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.30 %
+JavaScript                         6 hrs 5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 %
+Astro                              3 hrs 20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
+Makefile                           2 hrs 39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
 ```
 
 <!--END_SECTION:waka-->
