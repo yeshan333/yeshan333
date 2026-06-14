@@ -35,9 +35,9 @@ CSS                2 hrs 22 mins         █▓░░░░░░░░░░░
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [深入 Go Race Detector（Go 数据竞争检测器）：从编译器插桩到 ThreadSanitizer 运行时](https://shansan.top/2026/06/10/deep-dive-go-race-detector/)
+- [Emscripten 的 WebAssembly 编译实现解析](https://shansan.top/2026/06/09/emscripten-wasm-compilation-deep-dive/)
 - [【转载】AI 软件工程范式革命的思考](https://shansan.top/2026/06/06/ai-software-engineering-paradigm-revolution/)
 - [Your New Tab：把常用的 AI 搜索放进新标签页](https://shansan.top/2026/05/17/your-new-tab-ai-search-hub-promo/)
 - [【Draft】基于 cluacov 的 Lua 代码分支覆盖率统计：从行级近似到指令级精确](https://shansan.top/2026/05/02/cluacov-branch-coverage/)
-- [Sanitizer 全景：从编译插桩到硬件标签的内存安全检测演进](https://shansan.top/2026/04/22/blog-sanitizers-deep-dive/)
-- [【连载】Software Testing Weekly 图文解读 with VLM](https://shansan.top/2026/04/19/Software-Testing-Weekly-Visual-Interpretation/)
 <!-- BLOG-POST-LIST:END -->
